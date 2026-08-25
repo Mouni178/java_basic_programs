@@ -11,6 +11,7 @@ It is created to improve logic building and problem-solving skills.
 - Frequency count
 - 2D Arrays
 - Sum of array elements
+- Data Structures and Algorithms
 ## Purpose
 - Logic building
 - Interview preparation
